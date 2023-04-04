@@ -1,0 +1,39 @@
+{
+  "name": "bytebusters",
+  "version": "1.0.0",
+  "description": "Botanical Buddies is a comprehensive plant tracker application designed to help users monitor the health and growth of their beloved plants. Our mission is to make plant care accessible and enjoyable through technology, empowering users to cultivate thriving indoor and outdoor greenery.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/App.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Senpaicy/ByteBusters.git"
+  },
+  "keywords": [],
+  "author": "Cindy Zhang and Khushi Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Senpaicy/ByteBusters/issues"
+  },
+  "homepage": "https://github.com/Senpaicy/ByteBusters#readme",
+  "contributors": [
+    {
+      "name": "Cindy Zhang",
+      "email": "zhancin23@outlook.com",
+      "url": "https://github.com/senpaicy"
+    },
+    {
+      "name": "Khushi Patel",
+      "email": "kpate116@stevens.edu",
+      "url": "https://github.com/khushinpatel"
+    }
+  ],
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0",
+    "react": "^18.2.0",
+    "react-native": "^0.71.6"
+  }
+}
